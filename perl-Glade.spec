@@ -6,7 +6,7 @@ Summary(pl):	Modu³ Perla generuj±cy aplikacje Gtk-Perl na bazie pliku Glade
 Name:		perl-Glade
 Version:	0.61
 Release:	1
-License:	LGPL
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	13159e67d1a91bf912b4ffea2975cd1a
