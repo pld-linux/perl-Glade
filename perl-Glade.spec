@@ -1,21 +1,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	Glade
 %define		pnam	Perl
-Summary:	-
-Summary(cs):	-
-Summary(da):	-
-Summary(de):	-
-Summary(es):	-
-Summary(fr):	-
-Summary(it):	-
-Summary(ja):	-
-Summary(no):	-
-Summary(pl):	-
-Summary(pt):	-
-Summary(pt_BR):	-
-Summary(ru):	-
-Summary(sl):	-
-Summary(sv):	-
+Summary:	Perl module to generate Gtk-Perl apps from a Glade file
+Summary(pl):	Modu³ Perla generuj±cy aplikacje Gtk-Perl na bazie pliku Glade
 Name:		perl-Glade
 Version:	0.61
 Release:	1
@@ -35,8 +22,12 @@ BuildRequires:	perl-Unicode-String
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
+Glade-Perl will read a Glade-Interface XML file, build the UI and/or
+write the perl source to create the UI later and handle signals. It
+also creates an 'App' and a 'Subclass' that you can edit.
 
-%description -l pl
+Glade-Perl can generate AUTOLOAD type OO code with subclasses or even
+Libglade apps.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
