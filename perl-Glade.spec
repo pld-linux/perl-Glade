@@ -1,21 +1,21 @@
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	Glade
 %define		pnam	Perl
-Summary:	-	
-Summary(cs):	-	
-Summary(da):	-	
-Summary(de):	-	
-Summary(es):	-	
-Summary(fr):	-	
-Summary(it):	-	
-Summary(ja):	-	
-Summary(no):	-	
-Summary(pl):	-	
-Summary(pt):	-	
-Summary(pt_BR):	-	
-Summary(ru):	-	
-Summary(sl):	-	
-Summary(sv):	-	
+Summary:	-
+Summary(cs):	-
+Summary(da):	-
+Summary(de):	-
+Summary(es):	-
+Summary(fr):	-
+Summary(it):	-
+Summary(ja):	-
+Summary(no):	-
+Summary(pl):	-
+Summary(pt):	-
+Summary(pt_BR):	-
+Summary(ru):	-
+Summary(sl):	-
+Summary(sv):	-
 Name:		perl-Glade
 Version:	0.61
 Release:	1
