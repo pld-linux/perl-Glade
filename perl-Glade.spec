@@ -13,7 +13,7 @@ Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version
 URL:		http://www.gtkperl.org/
 BuildRequires:	gtk+-devel >= 1.2.0
 BuildRequires:	perl-XML-Parser
-BuildRequires:	perl-devel >= 5.005_03-10
+BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	perl-gnome
 BuildRequires:	perl-gtk
 BuildRequires:	perl-Unicode-String
