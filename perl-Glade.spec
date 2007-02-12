@@ -2,7 +2,7 @@
 %define		pdir	Glade
 %define		pnam	Perl
 Summary:	Perl module to generate Gtk-Perl apps from a Glade file
-Summary(pl):	Modu³ Perla generuj±cy aplikacje Gtk-Perl na bazie pliku Glade
+Summary(pl.UTF-8):   ModuÅ‚ Perla generujÄ…cy aplikacje Gtk-Perl na bazie pliku Glade
 Name:		perl-Glade
 Version:	0.61
 Release:	1
@@ -28,12 +28,12 @@ also creates an 'App' and a 'Subclass' that you can edit.
 Glade-Perl can generate AUTOLOAD type OO code with subclasses or even
 Libglade apps.
 
-%description -l pl
+%description -l pl.UTF-8
 Glade-Perl czyta plik XML z opisem interfejsu Glade, tworzy UI i/lub
-zapisuje perlowe ¼ród³a pó¼niej tworz±ce UI i obs³uguj±ce sygna³y.
-Tworzy tak¿e 'App' i 'Subclass', które mo¿na modyfikowaæ.
+zapisuje perlowe ÅºrÃ³dÅ‚a pÃ³Åºniej tworzÄ…ce UI i obsÅ‚ugujÄ…ce sygnaÅ‚y.
+Tworzy takÅ¼e 'App' i 'Subclass', ktÃ³re moÅ¼na modyfikowaÄ‡.
 
-Glade-Perl mo¿e generowaæ kod obiektowy typu AUTOLOAD z podklasami lub
+Glade-Perl moÅ¼e generowaÄ‡ kod obiektowy typu AUTOLOAD z podklasami lub
 nawet aplikacjami Libglade.
 
 %prep
