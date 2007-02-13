@@ -2,7 +2,7 @@
 %define		pdir	Glade
 %define		pnam	Perl
 Summary:	Perl module to generate Gtk-Perl apps from a Glade file
-Summary(pl.UTF-8):   Moduł Perla generujący aplikacje Gtk-Perl na bazie pliku Glade
+Summary(pl.UTF-8):	Moduł Perla generujący aplikacje Gtk-Perl na bazie pliku Glade
 Name:		perl-Glade
 Version:	0.61
 Release:	1
