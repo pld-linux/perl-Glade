@@ -44,6 +44,7 @@ nawet aplikacjami Libglade.
 	INSTALLDIRS=vendor
 
 %{__make} \
+	CC="%{__cc}" \
 	OPTIMIZE="%{rpmcflags}"
 
 %install
