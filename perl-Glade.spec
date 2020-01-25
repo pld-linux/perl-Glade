@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Glade
 %define		pnam	Perl
 Summary:	Perl module to generate Gtk-Perl apps from a Glade file
